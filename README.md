@@ -1,2 +1,2 @@
-# auto-tuning-guitar
-Have you every dreamed of picking up your guitar, strumming through the strings, and watching all 6 tuning pegs spin and dance into perfect pitch?  
+# Auto Tuning Guitar
+Have you every dreamed of picking up your guitar, strumming through the strings, and watching all 6 tuning pegs spin and dance into perfect pitch? Well that's the goal of this project. A tiny microphone inside the guitar picks up the soundwaves, shoots them over to a Teensy 4.1 for processing, where the fundamental frequency is "plucked" out, then the small dc gear motor on the headstock turns the machien head until the string is in tune (within ±3 cent) 
